@@ -9,5 +9,5 @@ add info in learngit_clone
 Creating a new branch is quick and simple.
 branch no Fast forward
 branch Fast forward
-work in issue-101
+work now in issue-101
 work in branch
