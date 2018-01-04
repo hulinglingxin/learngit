@@ -7,3 +7,4 @@ Creating a new branch is quick again.
 Creating a new branch is quick master.
 add info in learngit_clone
 Creating a new branch is quick and simple.
+branch no Fast forward
