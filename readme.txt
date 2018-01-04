@@ -16,3 +16,4 @@ work in master 1
 A commit 1
 A commit 2
 B commit 1
+A commit 3
