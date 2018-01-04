@@ -11,3 +11,4 @@ branch no Fast forward
 branch Fast forward
 work in issue-101
 work in branch 1
+work in branch 2
